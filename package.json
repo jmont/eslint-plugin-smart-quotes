@@ -25,6 +25,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url"  "https://github.com/jmont/eslint-plugin-smart-quotes"
+    "url": "https://github.com/jmont/eslint-plugin-smart-quotes"
   }
 }
